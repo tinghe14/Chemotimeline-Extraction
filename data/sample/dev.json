@@ -1,0 +1,2139 @@
+[
+    {
+        "text": "Real Madrid agrees with Chelsea FC to sign goalkeeper Thibaut Courtois\nThursday, August 9, 2018\u00a0\nYesterday, English football club Chelsea FC announced reaching an agreement with Spanish-capital club Real Madrid to transfer Belgian goalkeeper Thibaut Courtois to Madrid. Real Madrid via their official website said Courtois \"has signed for the club for the next six seasons.\"\n26-year-old Courtois has been Chelsea's first-choice goalkeeper for the last four seasons. He joined The Blues in 2011 from Belgian club K.R.C. Genk. In the last four seasons at Chelsea, Courtois won Premier League titles in 2014\u201315 and 2016\u201317, an EFL Cup in 2014\u201315, and the FA Cup in the last season. In his 2016\u201317 season for Chelsea, the Belgian kept sixteen clean-sheets in league matches.\nJust after joining Chelsea in 2011, Courtois was loaned to Real Madrid's cross-town rivals Atl\u00e9tico Madrid. During this previous spell in Spain, Courtois won one each of the Spanish LaLiga, Copa del Rey, UEFA Europa League, and UEFA Super Cup. Courtois won the Adidas Golden Glove in this year's FIFA World Cup in Russia, winning the third-place medal with Belgium.\nAccording to report by ESPN, Real Madrid had to pay about \u00a335 million for the transfer. At the same time, Real Madrid's midfielder Mateo Kova\u010di\u0107 is loaned to Chelsea for the next season. In Real Madrid's official announcement, they said Courtois is to be presented at Santiago Bernabeu today at 1 pm after his medical examination.",
+        "annotation": {
+            "events": {
+                "0": {
+                    "mention": "agreement",
+                    "start": 163,
+                    "end": 172,
+                    "arguments": {
+                        "ARG0": {
+                            "mention": "Chelsea FC",
+                            "start": 130,
+                            "end": 140
+                        },
+                        "ARG2": {
+                            "mention": "Real Madrid",
+                            "start": 199,
+                            "end": 210
+                        },
+                        "ARG1": {
+                            "mention": "transfer",
+                            "start": 214,
+                            "end": 222
+                        },
+                        "TIMEX": {
+                            "mention": "Yesterday",
+                            "start": 97,
+                            "end": 106
+                        }
+                    }
+                },
+                "1": {
+                    "mention": "transfer",
+                    "start": 214,
+                    "end": 222,
+                    "arguments": {
+                        "ARG0": {
+                            "mention": "Chelsea FC",
+                            "start": 130,
+                            "end": 140
+                        },
+                        "ARG1": {
+                            "mention": "Thibaut Courtois",
+                            "start": 242,
+                            "end": 258
+                        },
+                        "ARG2": {
+                            "mention": "Real Madrid",
+                            "start": 199,
+                            "end": 210
+                        },
+                        "TIMEX": {
+                            "mention": "Yesterday",
+                            "start": 97,
+                            "end": 106
+                        }
+                    }
+                },
+                "2": {
+                    "mention": "joined",
+                    "start": 469,
+                    "end": 475,
+                    "arguments": {
+                        "ARG0": {
+                            "mention": "Thibaut Courtois",
+                            "start": 242,
+                            "end": 258
+                        },
+                        "ARG1": {
+                            "mention": "Chelsea FC",
+                            "start": 130,
+                            "end": 140
+                        },
+                        "TIMEX": {
+                            "mention": "2011",
+                            "start": 489,
+                            "end": 493
+                        }
+                    }
+                },
+                "3": {
+                    "mention": "won",
+                    "start": 571,
+                    "end": 574,
+                    "arguments": {
+                        "ARG0": {
+                            "mention": "Thibaut Courtois",
+                            "start": 242,
+                            "end": 258
+                        },
+                        "ARG1": {
+                            "mention": "Premier League titles in 2014\u201315 and 2016\u201317, an EFL Cup in 2014\u201315, and the FA Cup in the last season",
+                            "start": 575,
+                            "end": 677
+                        }
+                    }
+                },
+                "4": {
+                    "mention": "loaned",
+                    "start": 820,
+                    "end": 826,
+                    "arguments": {
+                        "ARG0": {
+                            "mention": "Chelsea FC",
+                            "start": 130,
+                            "end": 140
+                        },
+                        "ARG1": {
+                            "mention": "Thibaut Courtois",
+                            "start": 242,
+                            "end": 258
+                        },
+                        "ARG2": {
+                            "mention": "Atl\u00e9tico Madrid",
+                            "start": 862,
+                            "end": 877
+                        },
+                        "TIMEX": {
+                            "mention": "2011",
+                            "start": 801,
+                            "end": 805
+                        }
+                    }
+                },
+                "5": {
+                    "mention": "won",
+                    "start": 925,
+                    "end": 928,
+                    "arguments": {
+                        "ARG0": {
+                            "mention": "Thibaut Courtois",
+                            "start": 242,
+                            "end": 258
+                        },
+                        "ARG1": {
+                            "mention": "one each of the Spanish LaLiga, Copa del Rey, UEFA Europa League, and UEFA Super Cup",
+                            "start": 929,
+                            "end": 1013
+                        }
+                    }
+                },
+                "6": {
+                    "mention": "won",
+                    "start": 1024,
+                    "end": 1027,
+                    "arguments": {
+                        "ARG1": {
+                            "mention": "the Adidas Golden Glove",
+                            "start": 1028,
+                            "end": 1051
+                        },
+                        "ARG0": {
+                            "mention": "Thibaut Courtois",
+                            "start": 242,
+                            "end": 258
+                        },
+                        "ARG2": {
+                            "mention": "this year's FIFA World Cup",
+                            "start": 1055,
+                            "end": 1081
+                        }
+                    }
+                },
+                "7": {
+                    "mention": "loaned",
+                    "start": 1285,
+                    "end": 1291,
+                    "arguments": {
+                        "ARG0": {
+                            "mention": "Real Madrid",
+                            "start": 199,
+                            "end": 210
+                        },
+                        "ARG1": {
+                            "mention": "Mateo Kova\u010di\u0107",
+                            "start": 1268,
+                            "end": 1281
+                        },
+                        "ARG2": {
+                            "mention": "Chelsea FC",
+                            "start": 130,
+                            "end": 140
+                        },
+                        "TIMEX": {
+                            "mention": "At the same time",
+                            "start": 1225,
+                            "end": 1241
+                        }
+                    }
+                }
+            },
+            "relations": [
+                {
+                    "arg1": "2",
+                    "arg2": "4",
+                    "relation": "AFTER"
+                },
+                {
+                    "arg1": "4",
+                    "arg2": "5",
+                    "relation": "AFTER"
+                },
+                {
+                    "arg1": "5",
+                    "arg2": "3",
+                    "relation": "AFTER"
+                },
+                {
+                    "arg1": "3",
+                    "arg2": "6",
+                    "relation": "AFTER"
+                },
+                {
+                    "arg1": "6",
+                    "arg2": "0",
+                    "relation": "AFTER"
+                },
+                {
+                    "arg1": "0",
+                    "arg2": "1",
+                    "relation": "COEX"
+                },
+                {
+                    "arg1": "0",
+                    "arg2": "7",
+                    "relation": "COEX"
+                }
+            ]
+        },
+        "examples": {
+            "pairwise": [
+                {
+                    "id_arg1": "0",
+                    "id_arg2": "1",
+                    "relation": "COEX"
+                },
+                {
+                    "id_arg1": "0",
+                    "id_arg2": "2",
+                    "relation": "AFTER"
+                },
+                {
+                    "id_arg1": "0",
+                    "id_arg2": "3",
+                    "relation": "AFTER"
+                },
+                {
+                    "id_arg1": "0",
+                    "id_arg2": "4",
+                    "relation": "AFTER"
+                },
+                {
+                    "id_arg1": "0",
+                    "id_arg2": "5",
+                    "relation": "AFTER"
+                },
+                {
+                    "id_arg1": "0",
+                    "id_arg2": "6",
+                    "relation": "AFTER"
+                },
+                {
+                    "id_arg1": "0",
+                    "id_arg2": "7",
+                    "relation": "COEX"
+                },
+                {
+                    "id_arg1": "1",
+                    "id_arg2": "0",
+                    "relation": "COEX"
+                },
+                {
+                    "id_arg1": "1",
+                    "id_arg2": "2",
+                    "relation": "AFTER"
+                },
+                {
+                    "id_arg1": "1",
+                    "id_arg2": "3",
+                    "relation": "AFTER"
+                },
+                {
+                    "id_arg1": "1",
+                    "id_arg2": "4",
+                    "relation": "AFTER"
+                },
+                {
+                    "id_arg1": "1",
+                    "id_arg2": "5",
+                    "relation": "AFTER"
+                },
+                {
+                    "id_arg1": "1",
+                    "id_arg2": "6",
+                    "relation": "AFTER"
+                },
+                {
+                    "id_arg1": "1",
+                    "id_arg2": "7",
+                    "relation": "COEX"
+                },
+                {
+                    "id_arg1": "2",
+                    "id_arg2": "0",
+                    "relation": "BEFORE"
+                },
+                {
+                    "id_arg1": "2",
+                    "id_arg2": "1",
+                    "relation": "BEFORE"
+                },
+                {
+                    "id_arg1": "2",
+                    "id_arg2": "3",
+                    "relation": "BEFORE"
+                },
+                {
+                    "id_arg1": "2",
+                    "id_arg2": "4",
+                    "relation": "BEFORE"
+                },
+                {
+                    "id_arg1": "2",
+                    "id_arg2": "5",
+                    "relation": "BEFORE"
+                },
+                {
+                    "id_arg1": "2",
+                    "id_arg2": "6",
+                    "relation": "BEFORE"
+                },
+                {
+                    "id_arg1": "2",
+                    "id_arg2": "7",
+                    "relation": "BEFORE"
+                },
+                {
+                    "id_arg1": "3",
+                    "id_arg2": "0",
+                    "relation": "BEFORE"
+                },
+                {
+                    "id_arg1": "3",
+                    "id_arg2": "1",
+                    "relation": "BEFORE"
+                },
+                {
+                    "id_arg1": "3",
+                    "id_arg2": "2",
+                    "relation": "AFTER"
+                },
+                {
+                    "id_arg1": "3",
+                    "id_arg2": "4",
+                    "relation": "AFTER"
+                },
+                {
+                    "id_arg1": "3",
+                    "id_arg2": "5",
+                    "relation": "AFTER"
+                },
+                {
+                    "id_arg1": "3",
+                    "id_arg2": "6",
+                    "relation": "BEFORE"
+                },
+                {
+                    "id_arg1": "3",
+                    "id_arg2": "7",
+                    "relation": "BEFORE"
+                },
+                {
+                    "id_arg1": "4",
+                    "id_arg2": "0",
+                    "relation": "BEFORE"
+                },
+                {
+                    "id_arg1": "4",
+                    "id_arg2": "1",
+                    "relation": "BEFORE"
+                },
+                {
+                    "id_arg1": "4",
+                    "id_arg2": "2",
+                    "relation": "AFTER"
+                },
+                {
+                    "id_arg1": "4",
+                    "id_arg2": "3",
+                    "relation": "BEFORE"
+                },
+                {
+                    "id_arg1": "4",
+                    "id_arg2": "5",
+                    "relation": "BEFORE"
+                },
+                {
+                    "id_arg1": "4",
+                    "id_arg2": "6",
+                    "relation": "BEFORE"
+                },
+                {
+                    "id_arg1": "4",
+                    "id_arg2": "7",
+                    "relation": "BEFORE"
+                },
+                {
+                    "id_arg1": "5",
+                    "id_arg2": "0",
+                    "relation": "BEFORE"
+                },
+                {
+                    "id_arg1": "5",
+                    "id_arg2": "1",
+                    "relation": "BEFORE"
+                },
+                {
+                    "id_arg1": "5",
+                    "id_arg2": "2",
+                    "relation": "AFTER"
+                },
+                {
+                    "id_arg1": "5",
+                    "id_arg2": "3",
+                    "relation": "BEFORE"
+                },
+                {
+                    "id_arg1": "5",
+                    "id_arg2": "4",
+                    "relation": "AFTER"
+                },
+                {
+                    "id_arg1": "5",
+                    "id_arg2": "6",
+                    "relation": "BEFORE"
+                },
+                {
+                    "id_arg1": "5",
+                    "id_arg2": "7",
+                    "relation": "BEFORE"
+                },
+                {
+                    "id_arg1": "6",
+                    "id_arg2": "0",
+                    "relation": "BEFORE"
+                },
+                {
+                    "id_arg1": "6",
+                    "id_arg2": "1",
+                    "relation": "BEFORE"
+                },
+                {
+                    "id_arg1": "6",
+                    "id_arg2": "2",
+                    "relation": "AFTER"
+                },
+                {
+                    "id_arg1": "6",
+                    "id_arg2": "3",
+                    "relation": "AFTER"
+                },
+                {
+                    "id_arg1": "6",
+                    "id_arg2": "4",
+                    "relation": "AFTER"
+                },
+                {
+                    "id_arg1": "6",
+                    "id_arg2": "5",
+                    "relation": "AFTER"
+                },
+                {
+                    "id_arg1": "6",
+                    "id_arg2": "7",
+                    "relation": "BEFORE"
+                },
+                {
+                    "id_arg1": "7",
+                    "id_arg2": "0",
+                    "relation": "COEX"
+                },
+                {
+                    "id_arg1": "7",
+                    "id_arg2": "1",
+                    "relation": "COEX"
+                },
+                {
+                    "id_arg1": "7",
+                    "id_arg2": "2",
+                    "relation": "AFTER"
+                },
+                {
+                    "id_arg1": "7",
+                    "id_arg2": "3",
+                    "relation": "AFTER"
+                },
+                {
+                    "id_arg1": "7",
+                    "id_arg2": "4",
+                    "relation": "AFTER"
+                },
+                {
+                    "id_arg1": "7",
+                    "id_arg2": "5",
+                    "relation": "AFTER"
+                },
+                {
+                    "id_arg1": "7",
+                    "id_arg2": "6",
+                    "relation": "AFTER"
+                }
+            ],
+            "nli": [
+                {
+                    "id_arg1": "0",
+                    "keyword": "BEFORE",
+                    "id_arg2": "1",
+                    "label": "negative"
+                },
+                {
+                    "id_arg1": "0",
+                    "keyword": "AFTER",
+                    "id_arg2": "1",
+                    "label": "negative"
+                },
+                {
+                    "id_arg1": "0",
+                    "keyword": "COEX",
+                    "id_arg2": "1",
+                    "label": "positive"
+                },
+                {
+                    "id_arg1": "0",
+                    "keyword": "BEFORE",
+                    "id_arg2": "2",
+                    "label": "negative"
+                },
+                {
+                    "id_arg1": "0",
+                    "keyword": "AFTER",
+                    "id_arg2": "2",
+                    "label": "positive"
+                },
+                {
+                    "id_arg1": "0",
+                    "keyword": "COEX",
+                    "id_arg2": "2",
+                    "label": "negative"
+                },
+                {
+                    "id_arg1": "0",
+                    "keyword": "BEFORE",
+                    "id_arg2": "3",
+                    "label": "negative"
+                },
+                {
+                    "id_arg1": "0",
+                    "keyword": "AFTER",
+                    "id_arg2": "3",
+                    "label": "positive"
+                },
+                {
+                    "id_arg1": "0",
+                    "keyword": "COEX",
+                    "id_arg2": "3",
+                    "label": "negative"
+                },
+                {
+                    "id_arg1": "0",
+                    "keyword": "BEFORE",
+                    "id_arg2": "4",
+                    "label": "negative"
+                },
+                {
+                    "id_arg1": "0",
+                    "keyword": "AFTER",
+                    "id_arg2": "4",
+                    "label": "positive"
+                },
+                {
+                    "id_arg1": "0",
+                    "keyword": "COEX",
+                    "id_arg2": "4",
+                    "label": "negative"
+                },
+                {
+                    "id_arg1": "0",
+                    "keyword": "BEFORE",
+                    "id_arg2": "5",
+                    "label": "negative"
+                },
+                {
+                    "id_arg1": "0",
+                    "keyword": "AFTER",
+                    "id_arg2": "5",
+                    "label": "positive"
+                },
+                {
+                    "id_arg1": "0",
+                    "keyword": "COEX",
+                    "id_arg2": "5",
+                    "label": "negative"
+                },
+                {
+                    "id_arg1": "0",
+                    "keyword": "BEFORE",
+                    "id_arg2": "6",
+                    "label": "negative"
+                },
+                {
+                    "id_arg1": "0",
+                    "keyword": "AFTER",
+                    "id_arg2": "6",
+                    "label": "positive"
+                },
+                {
+                    "id_arg1": "0",
+                    "keyword": "COEX",
+                    "id_arg2": "6",
+                    "label": "negative"
+                },
+                {
+                    "id_arg1": "0",
+                    "keyword": "BEFORE",
+                    "id_arg2": "7",
+                    "label": "negative"
+                },
+                {
+                    "id_arg1": "0",
+                    "keyword": "AFTER",
+                    "id_arg2": "7",
+                    "label": "negative"
+                },
+                {
+                    "id_arg1": "0",
+                    "keyword": "COEX",
+                    "id_arg2": "7",
+                    "label": "positive"
+                },
+                {
+                    "id_arg1": "1",
+                    "keyword": "BEFORE",
+                    "id_arg2": "0",
+                    "label": "negative"
+                },
+                {
+                    "id_arg1": "1",
+                    "keyword": "AFTER",
+                    "id_arg2": "0",
+                    "label": "negative"
+                },
+                {
+                    "id_arg1": "1",
+                    "keyword": "COEX",
+                    "id_arg2": "0",
+                    "label": "positive"
+                },
+                {
+                    "id_arg1": "1",
+                    "keyword": "BEFORE",
+                    "id_arg2": "2",
+                    "label": "negative"
+                },
+                {
+                    "id_arg1": "1",
+                    "keyword": "AFTER",
+                    "id_arg2": "2",
+                    "label": "positive"
+                },
+                {
+                    "id_arg1": "1",
+                    "keyword": "COEX",
+                    "id_arg2": "2",
+                    "label": "negative"
+                },
+                {
+                    "id_arg1": "1",
+                    "keyword": "BEFORE",
+                    "id_arg2": "3",
+                    "label": "negative"
+                },
+                {
+                    "id_arg1": "1",
+                    "keyword": "AFTER",
+                    "id_arg2": "3",
+                    "label": "positive"
+                },
+                {
+                    "id_arg1": "1",
+                    "keyword": "COEX",
+                    "id_arg2": "3",
+                    "label": "negative"
+                },
+                {
+                    "id_arg1": "1",
+                    "keyword": "BEFORE",
+                    "id_arg2": "4",
+                    "label": "negative"
+                },
+                {
+                    "id_arg1": "1",
+                    "keyword": "AFTER",
+                    "id_arg2": "4",
+                    "label": "positive"
+                },
+                {
+                    "id_arg1": "1",
+                    "keyword": "COEX",
+                    "id_arg2": "4",
+                    "label": "negative"
+                },
+                {
+                    "id_arg1": "1",
+                    "keyword": "BEFORE",
+                    "id_arg2": "5",
+                    "label": "negative"
+                },
+                {
+                    "id_arg1": "1",
+                    "keyword": "AFTER",
+                    "id_arg2": "5",
+                    "label": "positive"
+                },
+                {
+                    "id_arg1": "1",
+                    "keyword": "COEX",
+                    "id_arg2": "5",
+                    "label": "negative"
+                },
+                {
+                    "id_arg1": "1",
+                    "keyword": "BEFORE",
+                    "id_arg2": "6",
+                    "label": "negative"
+                },
+                {
+                    "id_arg1": "1",
+                    "keyword": "AFTER",
+                    "id_arg2": "6",
+                    "label": "positive"
+                },
+                {
+                    "id_arg1": "1",
+                    "keyword": "COEX",
+                    "id_arg2": "6",
+                    "label": "negative"
+                },
+                {
+                    "id_arg1": "1",
+                    "keyword": "BEFORE",
+                    "id_arg2": "7",
+                    "label": "negative"
+                },
+                {
+                    "id_arg1": "1",
+                    "keyword": "AFTER",
+                    "id_arg2": "7",
+                    "label": "negative"
+                },
+                {
+                    "id_arg1": "1",
+                    "keyword": "COEX",
+                    "id_arg2": "7",
+                    "label": "positive"
+                },
+                {
+                    "id_arg1": "2",
+                    "keyword": "BEFORE",
+                    "id_arg2": "0",
+                    "label": "positive"
+                },
+                {
+                    "id_arg1": "2",
+                    "keyword": "AFTER",
+                    "id_arg2": "0",
+                    "label": "negative"
+                },
+                {
+                    "id_arg1": "2",
+                    "keyword": "COEX",
+                    "id_arg2": "0",
+                    "label": "negative"
+                },
+                {
+                    "id_arg1": "2",
+                    "keyword": "BEFORE",
+                    "id_arg2": "1",
+                    "label": "positive"
+                },
+                {
+                    "id_arg1": "2",
+                    "keyword": "AFTER",
+                    "id_arg2": "1",
+                    "label": "negative"
+                },
+                {
+                    "id_arg1": "2",
+                    "keyword": "COEX",
+                    "id_arg2": "1",
+                    "label": "negative"
+                },
+                {
+                    "id_arg1": "2",
+                    "keyword": "BEFORE",
+                    "id_arg2": "3",
+                    "label": "positive"
+                },
+                {
+                    "id_arg1": "2",
+                    "keyword": "AFTER",
+                    "id_arg2": "3",
+                    "label": "negative"
+                },
+                {
+                    "id_arg1": "2",
+                    "keyword": "COEX",
+                    "id_arg2": "3",
+                    "label": "negative"
+                },
+                {
+                    "id_arg1": "2",
+                    "keyword": "BEFORE",
+                    "id_arg2": "4",
+                    "label": "positive"
+                },
+                {
+                    "id_arg1": "2",
+                    "keyword": "AFTER",
+                    "id_arg2": "4",
+                    "label": "negative"
+                },
+                {
+                    "id_arg1": "2",
+                    "keyword": "COEX",
+                    "id_arg2": "4",
+                    "label": "negative"
+                },
+                {
+                    "id_arg1": "2",
+                    "keyword": "BEFORE",
+                    "id_arg2": "5",
+                    "label": "positive"
+                },
+                {
+                    "id_arg1": "2",
+                    "keyword": "AFTER",
+                    "id_arg2": "5",
+                    "label": "negative"
+                },
+                {
+                    "id_arg1": "2",
+                    "keyword": "COEX",
+                    "id_arg2": "5",
+                    "label": "negative"
+                },
+                {
+                    "id_arg1": "2",
+                    "keyword": "BEFORE",
+                    "id_arg2": "6",
+                    "label": "positive"
+                },
+                {
+                    "id_arg1": "2",
+                    "keyword": "AFTER",
+                    "id_arg2": "6",
+                    "label": "negative"
+                },
+                {
+                    "id_arg1": "2",
+                    "keyword": "COEX",
+                    "id_arg2": "6",
+                    "label": "negative"
+                },
+                {
+                    "id_arg1": "2",
+                    "keyword": "BEFORE",
+                    "id_arg2": "7",
+                    "label": "positive"
+                },
+                {
+                    "id_arg1": "2",
+                    "keyword": "AFTER",
+                    "id_arg2": "7",
+                    "label": "negative"
+                },
+                {
+                    "id_arg1": "2",
+                    "keyword": "COEX",
+                    "id_arg2": "7",
+                    "label": "negative"
+                },
+                {
+                    "id_arg1": "3",
+                    "keyword": "BEFORE",
+                    "id_arg2": "0",
+                    "label": "positive"
+                },
+                {
+                    "id_arg1": "3",
+                    "keyword": "AFTER",
+                    "id_arg2": "0",
+                    "label": "negative"
+                },
+                {
+                    "id_arg1": "3",
+                    "keyword": "COEX",
+                    "id_arg2": "0",
+                    "label": "negative"
+                },
+                {
+                    "id_arg1": "3",
+                    "keyword": "BEFORE",
+                    "id_arg2": "1",
+                    "label": "positive"
+                },
+                {
+                    "id_arg1": "3",
+                    "keyword": "AFTER",
+                    "id_arg2": "1",
+                    "label": "negative"
+                },
+                {
+                    "id_arg1": "3",
+                    "keyword": "COEX",
+                    "id_arg2": "1",
+                    "label": "negative"
+                },
+                {
+                    "id_arg1": "3",
+                    "keyword": "BEFORE",
+                    "id_arg2": "2",
+                    "label": "negative"
+                },
+                {
+                    "id_arg1": "3",
+                    "keyword": "AFTER",
+                    "id_arg2": "2",
+                    "label": "positive"
+                },
+                {
+                    "id_arg1": "3",
+                    "keyword": "COEX",
+                    "id_arg2": "2",
+                    "label": "negative"
+                },
+                {
+                    "id_arg1": "3",
+                    "keyword": "BEFORE",
+                    "id_arg2": "4",
+                    "label": "negative"
+                },
+                {
+                    "id_arg1": "3",
+                    "keyword": "AFTER",
+                    "id_arg2": "4",
+                    "label": "positive"
+                },
+                {
+                    "id_arg1": "3",
+                    "keyword": "COEX",
+                    "id_arg2": "4",
+                    "label": "negative"
+                },
+                {
+                    "id_arg1": "3",
+                    "keyword": "BEFORE",
+                    "id_arg2": "5",
+                    "label": "negative"
+                },
+                {
+                    "id_arg1": "3",
+                    "keyword": "AFTER",
+                    "id_arg2": "5",
+                    "label": "positive"
+                },
+                {
+                    "id_arg1": "3",
+                    "keyword": "COEX",
+                    "id_arg2": "5",
+                    "label": "negative"
+                },
+                {
+                    "id_arg1": "3",
+                    "keyword": "BEFORE",
+                    "id_arg2": "6",
+                    "label": "positive"
+                },
+                {
+                    "id_arg1": "3",
+                    "keyword": "AFTER",
+                    "id_arg2": "6",
+                    "label": "negative"
+                },
+                {
+                    "id_arg1": "3",
+                    "keyword": "COEX",
+                    "id_arg2": "6",
+                    "label": "negative"
+                },
+                {
+                    "id_arg1": "3",
+                    "keyword": "BEFORE",
+                    "id_arg2": "7",
+                    "label": "positive"
+                },
+                {
+                    "id_arg1": "3",
+                    "keyword": "AFTER",
+                    "id_arg2": "7",
+                    "label": "negative"
+                },
+                {
+                    "id_arg1": "3",
+                    "keyword": "COEX",
+                    "id_arg2": "7",
+                    "label": "negative"
+                },
+                {
+                    "id_arg1": "4",
+                    "keyword": "BEFORE",
+                    "id_arg2": "0",
+                    "label": "positive"
+                },
+                {
+                    "id_arg1": "4",
+                    "keyword": "AFTER",
+                    "id_arg2": "0",
+                    "label": "negative"
+                },
+                {
+                    "id_arg1": "4",
+                    "keyword": "COEX",
+                    "id_arg2": "0",
+                    "label": "negative"
+                },
+                {
+                    "id_arg1": "4",
+                    "keyword": "BEFORE",
+                    "id_arg2": "1",
+                    "label": "positive"
+                },
+                {
+                    "id_arg1": "4",
+                    "keyword": "AFTER",
+                    "id_arg2": "1",
+                    "label": "negative"
+                },
+                {
+                    "id_arg1": "4",
+                    "keyword": "COEX",
+                    "id_arg2": "1",
+                    "label": "negative"
+                },
+                {
+                    "id_arg1": "4",
+                    "keyword": "BEFORE",
+                    "id_arg2": "2",
+                    "label": "negative"
+                },
+                {
+                    "id_arg1": "4",
+                    "keyword": "AFTER",
+                    "id_arg2": "2",
+                    "label": "positive"
+                },
+                {
+                    "id_arg1": "4",
+                    "keyword": "COEX",
+                    "id_arg2": "2",
+                    "label": "negative"
+                },
+                {
+                    "id_arg1": "4",
+                    "keyword": "BEFORE",
+                    "id_arg2": "3",
+                    "label": "positive"
+                },
+                {
+                    "id_arg1": "4",
+                    "keyword": "AFTER",
+                    "id_arg2": "3",
+                    "label": "negative"
+                },
+                {
+                    "id_arg1": "4",
+                    "keyword": "COEX",
+                    "id_arg2": "3",
+                    "label": "negative"
+                },
+                {
+                    "id_arg1": "4",
+                    "keyword": "BEFORE",
+                    "id_arg2": "5",
+                    "label": "positive"
+                },
+                {
+                    "id_arg1": "4",
+                    "keyword": "AFTER",
+                    "id_arg2": "5",
+                    "label": "negative"
+                },
+                {
+                    "id_arg1": "4",
+                    "keyword": "COEX",
+                    "id_arg2": "5",
+                    "label": "negative"
+                },
+                {
+                    "id_arg1": "4",
+                    "keyword": "BEFORE",
+                    "id_arg2": "6",
+                    "label": "positive"
+                },
+                {
+                    "id_arg1": "4",
+                    "keyword": "AFTER",
+                    "id_arg2": "6",
+                    "label": "negative"
+                },
+                {
+                    "id_arg1": "4",
+                    "keyword": "COEX",
+                    "id_arg2": "6",
+                    "label": "negative"
+                },
+                {
+                    "id_arg1": "4",
+                    "keyword": "BEFORE",
+                    "id_arg2": "7",
+                    "label": "positive"
+                },
+                {
+                    "id_arg1": "4",
+                    "keyword": "AFTER",
+                    "id_arg2": "7",
+                    "label": "negative"
+                },
+                {
+                    "id_arg1": "4",
+                    "keyword": "COEX",
+                    "id_arg2": "7",
+                    "label": "negative"
+                },
+                {
+                    "id_arg1": "5",
+                    "keyword": "BEFORE",
+                    "id_arg2": "0",
+                    "label": "positive"
+                },
+                {
+                    "id_arg1": "5",
+                    "keyword": "AFTER",
+                    "id_arg2": "0",
+                    "label": "negative"
+                },
+                {
+                    "id_arg1": "5",
+                    "keyword": "COEX",
+                    "id_arg2": "0",
+                    "label": "negative"
+                },
+                {
+                    "id_arg1": "5",
+                    "keyword": "BEFORE",
+                    "id_arg2": "1",
+                    "label": "positive"
+                },
+                {
+                    "id_arg1": "5",
+                    "keyword": "AFTER",
+                    "id_arg2": "1",
+                    "label": "negative"
+                },
+                {
+                    "id_arg1": "5",
+                    "keyword": "COEX",
+                    "id_arg2": "1",
+                    "label": "negative"
+                },
+                {
+                    "id_arg1": "5",
+                    "keyword": "BEFORE",
+                    "id_arg2": "2",
+                    "label": "negative"
+                },
+                {
+                    "id_arg1": "5",
+                    "keyword": "AFTER",
+                    "id_arg2": "2",
+                    "label": "positive"
+                },
+                {
+                    "id_arg1": "5",
+                    "keyword": "COEX",
+                    "id_arg2": "2",
+                    "label": "negative"
+                },
+                {
+                    "id_arg1": "5",
+                    "keyword": "BEFORE",
+                    "id_arg2": "3",
+                    "label": "positive"
+                },
+                {
+                    "id_arg1": "5",
+                    "keyword": "AFTER",
+                    "id_arg2": "3",
+                    "label": "negative"
+                },
+                {
+                    "id_arg1": "5",
+                    "keyword": "COEX",
+                    "id_arg2": "3",
+                    "label": "negative"
+                },
+                {
+                    "id_arg1": "5",
+                    "keyword": "BEFORE",
+                    "id_arg2": "4",
+                    "label": "negative"
+                },
+                {
+                    "id_arg1": "5",
+                    "keyword": "AFTER",
+                    "id_arg2": "4",
+                    "label": "positive"
+                },
+                {
+                    "id_arg1": "5",
+                    "keyword": "COEX",
+                    "id_arg2": "4",
+                    "label": "negative"
+                },
+                {
+                    "id_arg1": "5",
+                    "keyword": "BEFORE",
+                    "id_arg2": "6",
+                    "label": "positive"
+                },
+                {
+                    "id_arg1": "5",
+                    "keyword": "AFTER",
+                    "id_arg2": "6",
+                    "label": "negative"
+                },
+                {
+                    "id_arg1": "5",
+                    "keyword": "COEX",
+                    "id_arg2": "6",
+                    "label": "negative"
+                },
+                {
+                    "id_arg1": "5",
+                    "keyword": "BEFORE",
+                    "id_arg2": "7",
+                    "label": "positive"
+                },
+                {
+                    "id_arg1": "5",
+                    "keyword": "AFTER",
+                    "id_arg2": "7",
+                    "label": "negative"
+                },
+                {
+                    "id_arg1": "5",
+                    "keyword": "COEX",
+                    "id_arg2": "7",
+                    "label": "negative"
+                },
+                {
+                    "id_arg1": "6",
+                    "keyword": "BEFORE",
+                    "id_arg2": "0",
+                    "label": "positive"
+                },
+                {
+                    "id_arg1": "6",
+                    "keyword": "AFTER",
+                    "id_arg2": "0",
+                    "label": "negative"
+                },
+                {
+                    "id_arg1": "6",
+                    "keyword": "COEX",
+                    "id_arg2": "0",
+                    "label": "negative"
+                },
+                {
+                    "id_arg1": "6",
+                    "keyword": "BEFORE",
+                    "id_arg2": "1",
+                    "label": "positive"
+                },
+                {
+                    "id_arg1": "6",
+                    "keyword": "AFTER",
+                    "id_arg2": "1",
+                    "label": "negative"
+                },
+                {
+                    "id_arg1": "6",
+                    "keyword": "COEX",
+                    "id_arg2": "1",
+                    "label": "negative"
+                },
+                {
+                    "id_arg1": "6",
+                    "keyword": "BEFORE",
+                    "id_arg2": "2",
+                    "label": "negative"
+                },
+                {
+                    "id_arg1": "6",
+                    "keyword": "AFTER",
+                    "id_arg2": "2",
+                    "label": "positive"
+                },
+                {
+                    "id_arg1": "6",
+                    "keyword": "COEX",
+                    "id_arg2": "2",
+                    "label": "negative"
+                },
+                {
+                    "id_arg1": "6",
+                    "keyword": "BEFORE",
+                    "id_arg2": "3",
+                    "label": "negative"
+                },
+                {
+                    "id_arg1": "6",
+                    "keyword": "AFTER",
+                    "id_arg2": "3",
+                    "label": "positive"
+                },
+                {
+                    "id_arg1": "6",
+                    "keyword": "COEX",
+                    "id_arg2": "3",
+                    "label": "negative"
+                },
+                {
+                    "id_arg1": "6",
+                    "keyword": "BEFORE",
+                    "id_arg2": "4",
+                    "label": "negative"
+                },
+                {
+                    "id_arg1": "6",
+                    "keyword": "AFTER",
+                    "id_arg2": "4",
+                    "label": "positive"
+                },
+                {
+                    "id_arg1": "6",
+                    "keyword": "COEX",
+                    "id_arg2": "4",
+                    "label": "negative"
+                },
+                {
+                    "id_arg1": "6",
+                    "keyword": "BEFORE",
+                    "id_arg2": "5",
+                    "label": "negative"
+                },
+                {
+                    "id_arg1": "6",
+                    "keyword": "AFTER",
+                    "id_arg2": "5",
+                    "label": "positive"
+                },
+                {
+                    "id_arg1": "6",
+                    "keyword": "COEX",
+                    "id_arg2": "5",
+                    "label": "negative"
+                },
+                {
+                    "id_arg1": "6",
+                    "keyword": "BEFORE",
+                    "id_arg2": "7",
+                    "label": "positive"
+                },
+                {
+                    "id_arg1": "6",
+                    "keyword": "AFTER",
+                    "id_arg2": "7",
+                    "label": "negative"
+                },
+                {
+                    "id_arg1": "6",
+                    "keyword": "COEX",
+                    "id_arg2": "7",
+                    "label": "negative"
+                },
+                {
+                    "id_arg1": "7",
+                    "keyword": "BEFORE",
+                    "id_arg2": "0",
+                    "label": "negative"
+                },
+                {
+                    "id_arg1": "7",
+                    "keyword": "AFTER",
+                    "id_arg2": "0",
+                    "label": "negative"
+                },
+                {
+                    "id_arg1": "7",
+                    "keyword": "COEX",
+                    "id_arg2": "0",
+                    "label": "positive"
+                },
+                {
+                    "id_arg1": "7",
+                    "keyword": "BEFORE",
+                    "id_arg2": "1",
+                    "label": "negative"
+                },
+                {
+                    "id_arg1": "7",
+                    "keyword": "AFTER",
+                    "id_arg2": "1",
+                    "label": "negative"
+                },
+                {
+                    "id_arg1": "7",
+                    "keyword": "COEX",
+                    "id_arg2": "1",
+                    "label": "positive"
+                },
+                {
+                    "id_arg1": "7",
+                    "keyword": "BEFORE",
+                    "id_arg2": "2",
+                    "label": "negative"
+                },
+                {
+                    "id_arg1": "7",
+                    "keyword": "AFTER",
+                    "id_arg2": "2",
+                    "label": "positive"
+                },
+                {
+                    "id_arg1": "7",
+                    "keyword": "COEX",
+                    "id_arg2": "2",
+                    "label": "negative"
+                },
+                {
+                    "id_arg1": "7",
+                    "keyword": "BEFORE",
+                    "id_arg2": "3",
+                    "label": "negative"
+                },
+                {
+                    "id_arg1": "7",
+                    "keyword": "AFTER",
+                    "id_arg2": "3",
+                    "label": "positive"
+                },
+                {
+                    "id_arg1": "7",
+                    "keyword": "COEX",
+                    "id_arg2": "3",
+                    "label": "negative"
+                },
+                {
+                    "id_arg1": "7",
+                    "keyword": "BEFORE",
+                    "id_arg2": "4",
+                    "label": "negative"
+                },
+                {
+                    "id_arg1": "7",
+                    "keyword": "AFTER",
+                    "id_arg2": "4",
+                    "label": "positive"
+                },
+                {
+                    "id_arg1": "7",
+                    "keyword": "COEX",
+                    "id_arg2": "4",
+                    "label": "negative"
+                },
+                {
+                    "id_arg1": "7",
+                    "keyword": "BEFORE",
+                    "id_arg2": "5",
+                    "label": "negative"
+                },
+                {
+                    "id_arg1": "7",
+                    "keyword": "AFTER",
+                    "id_arg2": "5",
+                    "label": "positive"
+                },
+                {
+                    "id_arg1": "7",
+                    "keyword": "COEX",
+                    "id_arg2": "5",
+                    "label": "negative"
+                },
+                {
+                    "id_arg1": "7",
+                    "keyword": "BEFORE",
+                    "id_arg2": "6",
+                    "label": "negative"
+                },
+                {
+                    "id_arg1": "7",
+                    "keyword": "AFTER",
+                    "id_arg2": "6",
+                    "label": "positive"
+                },
+                {
+                    "id_arg1": "7",
+                    "keyword": "COEX",
+                    "id_arg2": "6",
+                    "label": "negative"
+                }
+            ],
+            "mrc": [
+                {
+                    "target": "0",
+                    "answers": [
+                        "2",
+                        "3",
+                        "4",
+                        "5",
+                        "6"
+                    ],
+                    "relation2answers": {
+                        "COEX": [
+                            "1",
+                            "7"
+                        ],
+                        "BEFORE": [
+                            "2",
+                            "3",
+                            "4",
+                            "5",
+                            "6"
+                        ],
+                        "AFTER": []
+                    },
+                    "relation": "BEFORE"
+                },
+                {
+                    "target": "0",
+                    "answers": [],
+                    "relation2answers": {
+                        "COEX": [
+                            "1",
+                            "7"
+                        ],
+                        "BEFORE": [
+                            "2",
+                            "3",
+                            "4",
+                            "5",
+                            "6"
+                        ],
+                        "AFTER": []
+                    },
+                    "relation": "AFTER"
+                },
+                {
+                    "target": "0",
+                    "answers": [
+                        "1",
+                        "7"
+                    ],
+                    "relation2answers": {
+                        "COEX": [
+                            "1",
+                            "7"
+                        ],
+                        "BEFORE": [
+                            "2",
+                            "3",
+                            "4",
+                            "5",
+                            "6"
+                        ],
+                        "AFTER": []
+                    },
+                    "relation": "COEX"
+                },
+                {
+                    "target": "1",
+                    "answers": [
+                        "2",
+                        "3",
+                        "4",
+                        "5",
+                        "6"
+                    ],
+                    "relation2answers": {
+                        "COEX": [
+                            "0",
+                            "7"
+                        ],
+                        "BEFORE": [
+                            "2",
+                            "3",
+                            "4",
+                            "5",
+                            "6"
+                        ],
+                        "AFTER": []
+                    },
+                    "relation": "BEFORE"
+                },
+                {
+                    "target": "1",
+                    "answers": [],
+                    "relation2answers": {
+                        "COEX": [
+                            "0",
+                            "7"
+                        ],
+                        "BEFORE": [
+                            "2",
+                            "3",
+                            "4",
+                            "5",
+                            "6"
+                        ],
+                        "AFTER": []
+                    },
+                    "relation": "AFTER"
+                },
+                {
+                    "target": "1",
+                    "answers": [
+                        "0",
+                        "7"
+                    ],
+                    "relation2answers": {
+                        "COEX": [
+                            "0",
+                            "7"
+                        ],
+                        "BEFORE": [
+                            "2",
+                            "3",
+                            "4",
+                            "5",
+                            "6"
+                        ],
+                        "AFTER": []
+                    },
+                    "relation": "COEX"
+                },
+                {
+                    "target": "2",
+                    "answers": [],
+                    "relation2answers": {
+                        "AFTER": [
+                            "0",
+                            "1",
+                            "3",
+                            "4",
+                            "5",
+                            "6",
+                            "7"
+                        ],
+                        "BEFORE": [],
+                        "COEX": []
+                    },
+                    "relation": "BEFORE"
+                },
+                {
+                    "target": "2",
+                    "answers": [
+                        "0",
+                        "1",
+                        "3",
+                        "4",
+                        "5",
+                        "6",
+                        "7"
+                    ],
+                    "relation2answers": {
+                        "AFTER": [
+                            "0",
+                            "1",
+                            "3",
+                            "4",
+                            "5",
+                            "6",
+                            "7"
+                        ],
+                        "BEFORE": [],
+                        "COEX": []
+                    },
+                    "relation": "AFTER"
+                },
+                {
+                    "target": "2",
+                    "answers": [],
+                    "relation2answers": {
+                        "AFTER": [
+                            "0",
+                            "1",
+                            "3",
+                            "4",
+                            "5",
+                            "6",
+                            "7"
+                        ],
+                        "BEFORE": [],
+                        "COEX": []
+                    },
+                    "relation": "COEX"
+                },
+                {
+                    "target": "3",
+                    "answers": [
+                        "2",
+                        "4",
+                        "5"
+                    ],
+                    "relation2answers": {
+                        "AFTER": [
+                            "0",
+                            "1",
+                            "6",
+                            "7"
+                        ],
+                        "BEFORE": [
+                            "2",
+                            "4",
+                            "5"
+                        ],
+                        "COEX": []
+                    },
+                    "relation": "BEFORE"
+                },
+                {
+                    "target": "3",
+                    "answers": [
+                        "0",
+                        "1",
+                        "6",
+                        "7"
+                    ],
+                    "relation2answers": {
+                        "AFTER": [
+                            "0",
+                            "1",
+                            "6",
+                            "7"
+                        ],
+                        "BEFORE": [
+                            "2",
+                            "4",
+                            "5"
+                        ],
+                        "COEX": []
+                    },
+                    "relation": "AFTER"
+                },
+                {
+                    "target": "3",
+                    "answers": [],
+                    "relation2answers": {
+                        "AFTER": [
+                            "0",
+                            "1",
+                            "6",
+                            "7"
+                        ],
+                        "BEFORE": [
+                            "2",
+                            "4",
+                            "5"
+                        ],
+                        "COEX": []
+                    },
+                    "relation": "COEX"
+                },
+                {
+                    "target": "4",
+                    "answers": [
+                        "2"
+                    ],
+                    "relation2answers": {
+                        "AFTER": [
+                            "0",
+                            "1",
+                            "3",
+                            "5",
+                            "6",
+                            "7"
+                        ],
+                        "BEFORE": [
+                            "2"
+                        ],
+                        "COEX": []
+                    },
+                    "relation": "BEFORE"
+                },
+                {
+                    "target": "4",
+                    "answers": [
+                        "0",
+                        "1",
+                        "3",
+                        "5",
+                        "6",
+                        "7"
+                    ],
+                    "relation2answers": {
+                        "AFTER": [
+                            "0",
+                            "1",
+                            "3",
+                            "5",
+                            "6",
+                            "7"
+                        ],
+                        "BEFORE": [
+                            "2"
+                        ],
+                        "COEX": []
+                    },
+                    "relation": "AFTER"
+                },
+                {
+                    "target": "4",
+                    "answers": [],
+                    "relation2answers": {
+                        "AFTER": [
+                            "0",
+                            "1",
+                            "3",
+                            "5",
+                            "6",
+                            "7"
+                        ],
+                        "BEFORE": [
+                            "2"
+                        ],
+                        "COEX": []
+                    },
+                    "relation": "COEX"
+                },
+                {
+                    "target": "5",
+                    "answers": [
+                        "2",
+                        "4"
+                    ],
+                    "relation2answers": {
+                        "AFTER": [
+                            "0",
+                            "1",
+                            "3",
+                            "6",
+                            "7"
+                        ],
+                        "BEFORE": [
+                            "2",
+                            "4"
+                        ],
+                        "COEX": []
+                    },
+                    "relation": "BEFORE"
+                },
+                {
+                    "target": "5",
+                    "answers": [
+                        "0",
+                        "1",
+                        "3",
+                        "6",
+                        "7"
+                    ],
+                    "relation2answers": {
+                        "AFTER": [
+                            "0",
+                            "1",
+                            "3",
+                            "6",
+                            "7"
+                        ],
+                        "BEFORE": [
+                            "2",
+                            "4"
+                        ],
+                        "COEX": []
+                    },
+                    "relation": "AFTER"
+                },
+                {
+                    "target": "5",
+                    "answers": [],
+                    "relation2answers": {
+                        "AFTER": [
+                            "0",
+                            "1",
+                            "3",
+                            "6",
+                            "7"
+                        ],
+                        "BEFORE": [
+                            "2",
+                            "4"
+                        ],
+                        "COEX": []
+                    },
+                    "relation": "COEX"
+                },
+                {
+                    "target": "6",
+                    "answers": [
+                        "2",
+                        "3",
+                        "4",
+                        "5"
+                    ],
+                    "relation2answers": {
+                        "AFTER": [
+                            "0",
+                            "1",
+                            "7"
+                        ],
+                        "BEFORE": [
+                            "2",
+                            "3",
+                            "4",
+                            "5"
+                        ],
+                        "COEX": []
+                    },
+                    "relation": "BEFORE"
+                },
+                {
+                    "target": "6",
+                    "answers": [
+                        "0",
+                        "1",
+                        "7"
+                    ],
+                    "relation2answers": {
+                        "AFTER": [
+                            "0",
+                            "1",
+                            "7"
+                        ],
+                        "BEFORE": [
+                            "2",
+                            "3",
+                            "4",
+                            "5"
+                        ],
+                        "COEX": []
+                    },
+                    "relation": "AFTER"
+                },
+                {
+                    "target": "6",
+                    "answers": [],
+                    "relation2answers": {
+                        "AFTER": [
+                            "0",
+                            "1",
+                            "7"
+                        ],
+                        "BEFORE": [
+                            "2",
+                            "3",
+                            "4",
+                            "5"
+                        ],
+                        "COEX": []
+                    },
+                    "relation": "COEX"
+                },
+                {
+                    "target": "7",
+                    "answers": [
+                        "2",
+                        "3",
+                        "4",
+                        "5",
+                        "6"
+                    ],
+                    "relation2answers": {
+                        "COEX": [
+                            "0",
+                            "1"
+                        ],
+                        "BEFORE": [
+                            "2",
+                            "3",
+                            "4",
+                            "5",
+                            "6"
+                        ],
+                        "AFTER": []
+                    },
+                    "relation": "BEFORE"
+                },
+                {
+                    "target": "7",
+                    "answers": [],
+                    "relation2answers": {
+                        "COEX": [
+                            "0",
+                            "1"
+                        ],
+                        "BEFORE": [
+                            "2",
+                            "3",
+                            "4",
+                            "5",
+                            "6"
+                        ],
+                        "AFTER": []
+                    },
+                    "relation": "AFTER"
+                },
+                {
+                    "target": "7",
+                    "answers": [
+                        "0",
+                        "1"
+                    ],
+                    "relation2answers": {
+                        "COEX": [
+                            "0",
+                            "1"
+                        ],
+                        "BEFORE": [
+                            "2",
+                            "3",
+                            "4",
+                            "5",
+                            "6"
+                        ],
+                        "AFTER": []
+                    },
+                    "relation": "COEX"
+                }
+            ],
+            "timeline": [
+                [
+                    [
+                        "2"
+                    ],
+                    [
+                        "4"
+                    ],
+                    [
+                        "5"
+                    ],
+                    [
+                        "3"
+                    ],
+                    [
+                        "6"
+                    ],
+                    [
+                        "1",
+                        "7",
+                        "0"
+                    ]
+                ]
+            ]
+        },
+        "pairs": {
+            "original": {
+                "0-1": "COEX",
+                "0-2": "AFTER",
+                "0-3": "AFTER",
+                "0-4": "AFTER",
+                "0-5": "AFTER",
+                "0-6": "AFTER",
+                "0-7": "COEX",
+                "1-2": "AFTER",
+                "1-3": "AFTER",
+                "1-4": "AFTER",
+                "1-5": "AFTER",
+                "1-6": "AFTER",
+                "1-7": "COEX",
+                "2-3": "BEFORE",
+                "2-4": "BEFORE",
+                "2-5": "BEFORE",
+                "2-6": "BEFORE",
+                "2-7": "BEFORE",
+                "3-4": "AFTER",
+                "3-5": "AFTER",
+                "3-6": "BEFORE",
+                "3-7": "BEFORE",
+                "4-5": "BEFORE",
+                "4-6": "BEFORE",
+                "4-7": "BEFORE",
+                "5-6": "BEFORE",
+                "5-7": "BEFORE",
+                "6-7": "BEFORE"
+            },
+            "linearized": {
+                "0-1": "COEX",
+                "0-2": "AFTER",
+                "0-3": "AFTER",
+                "0-4": "AFTER",
+                "0-5": "AFTER",
+                "0-6": "AFTER",
+                "0-7": "COEX",
+                "1-2": "AFTER",
+                "1-3": "AFTER",
+                "1-4": "AFTER",
+                "1-5": "AFTER",
+                "1-6": "AFTER",
+                "1-7": "COEX",
+                "2-3": "BEFORE",
+                "2-4": "BEFORE",
+                "2-5": "BEFORE",
+                "2-6": "BEFORE",
+                "2-7": "BEFORE",
+                "3-4": "AFTER",
+                "3-5": "AFTER",
+                "3-6": "BEFORE",
+                "3-7": "BEFORE",
+                "4-5": "BEFORE",
+                "4-6": "BEFORE",
+                "4-7": "BEFORE",
+                "5-6": "BEFORE",
+                "5-7": "BEFORE",
+                "6-7": "BEFORE"
+            }
+        },
+        "filename": "sports_3"
+    }
+]
